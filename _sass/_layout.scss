@@ -14,17 +14,22 @@
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
-
-    &,
-    &:visited {
+    margin: 0;
+	text-align: center;
+	
+    a,
+    a:visited {
         color: $grey-color-dark;
     }
 }
 
+.site-sub-title {
+	margin: 0;
+	text-align: center;
+}
+
 .site-nav {
-    float: right;
+//    float: right;
     line-height: 56px;
 
     .menu-icon {
