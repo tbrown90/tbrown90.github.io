@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I am a software engineer with experience developing applications for the **web, desktop,** and **mobile devices**. I primarily work in **C#, Java, JavaScript,** and **HTML** and I have no trouble learning a new language. I thrive in a test-driven development environment, creating stable and maintainable applications. I am a team player and can work equally efficiently independently or as part of a pair.

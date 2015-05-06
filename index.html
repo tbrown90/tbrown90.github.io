@@ -2,22 +2,19 @@
 layout: default
 ---
 
-<div class="home">
+<div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+	<header class="post-header">
+		<h1 class="post-title">About</h1>
+	</header>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<article class="post-content">
+		<p>I am a software engineer with experience developing applications for the <strong>web, desktop,</strong> and <strong>mobile devices</strong>. I primarily work in <strong>C#, Java, JavaScript,</strong> and <strong>HTML</strong> and I have no trouble learning a new language. I thrive in a test-driven development environment, creating stable and maintainable applications. I am a team player and can work equally efficiently independently or as part of a pair.</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+		<p>I have worked on many types for projects during my career. I have created small report generating applications that connect to large criminal databases to draw their data, simple Android and iOS video games, marketing web-applications used by some of the largest telecom companies of the U.S, as well as large governmental and eCommerce web sites. In my free time, I enjoy experimenting with new languages and programming techniques; designing and developing my own video games and personal applications to fix simple problems I come across.</p>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+		<p>Please <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#116;&#106;&#098;&#114;&#111;&#119;&#110;&#057;&#048;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">contact me</a> to discuss an open position or contract job that you need help with.</p>
+
+	</article>
 
 </div>
