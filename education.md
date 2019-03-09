@@ -5,6 +5,7 @@ permalink: /education/
 ---
 
 **DeVry University** - **Game and Simulation Programming**
+
 *07/2008 - 05/2012*
 
 **Achievements**
