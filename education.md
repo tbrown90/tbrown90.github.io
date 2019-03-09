@@ -12,4 +12,3 @@ permalink: /education/
 * 3.95 GPA
 * Dean's List
 * Alpha Sigma Lambda
----
