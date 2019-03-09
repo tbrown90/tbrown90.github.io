@@ -5,7 +5,7 @@ email: tjbrown90@gmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
   Web portfolio of Terry Brown. Created using github pages.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://iamtjbrown.com" # the base hostname & protocol for your site
+url: "http://www.iamtjbrown.com" # the base hostname & protocol for your site
 github_username:  tbrown90
 
 # Build settings
