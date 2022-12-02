@@ -15,7 +15,8 @@ permalink: /experience/
 **Achievements**
 * Led	the	development	of	a public-private	keyed	authentication	system	to improve	partner	security.
 * Improved	productivity throughout	the	company	by	creating	a	reliable testing	tool	to	run	a	Carfax	Vehicle	History	Report	quickly	on	any development	level	and	with	custom	data	input.
-* Helped	lead	the	migration	of	a	legacy	web-application	to	the	AWS	cloud.
+* Helped	lead	the	migration	of legacy	web-applications	to	the	AWS	cloud by becoming my team's AWS guru.
+* Became my team’s security expert, and represented my team in Carfax’s Security Guild
 
 ---
 
